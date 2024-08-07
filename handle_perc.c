@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * printf_37 - prints the char %(percentage)
+ * printf_37 - prints the char percentage sign
  *
- * Return 1
+ * Return: 1
  */
 int printf_37(void)
 {
